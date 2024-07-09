@@ -1,0 +1,7 @@
+{
+  "type": "module",
+  "devDependencies": {
+    "@alexlit/config-markdownlint": "^2.8.0",
+    "@alexlit/config-prettier": "^18.5.5"
+  }
+}
