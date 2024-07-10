@@ -13,6 +13,8 @@
 
 </div>
 
+---
+
 ### Vue.js
 
 <div style="display: flex; flex-wrap: wrap; align-items: flex-start;  gap: 1rem;">
@@ -25,11 +27,15 @@
    <img src="https://github-readme-stats.vercel.app/api/pin/?username=alex-lit&repo=vue-app-architecture-recomendations&theme=transparent&hide_border=true&description_lines_count=3">
 </div>
 
+---
+
 ### CSS
 
 <div style="display: flex; flex-wrap: wrap; align-items: flex-start;  gap: 1rem;">
    <img src="https://github-readme-stats.vercel.app/api/pin/?username=alex-lit&repo=css-material-color-palette-variables&theme=transparent&hide_border=true&description_lines_count=3">
 </div>
+
+---
 
 ### October CMS
 
