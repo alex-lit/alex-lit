@@ -1,3 +1,4 @@
 {
-  "extends": "@alexlit/config-markdownlint"
+  "extends": "@alexlit/config-markdownlint",
+  "line-length": false
 }
