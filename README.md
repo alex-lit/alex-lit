@@ -1,8 +1,8 @@
 ## Front-end developer
 
-| **Резюме**                                                           | **Примеры работ**                                                      | **Сертификаты**                                                           |
-| -------------------------------------------------------------------- | ---------------------------------------------------------------------- | ------------------------------------------------------------------------- |
-| [hh.ru](https://hh.ru/resume/ec5eb6e9ff023f2e180039ed1f674a724f6254) | [github.com](https://github.com/alex-lit/alex-lit/tree/main/portfolio) | [github.com](https://github.com/alex-lit/alex-lit/tree/main/sertificates) |
+| **Резюме**                                                           | **Сертификаты**                                                                     |
+| -------------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
+| [hh.ru](https://hh.ru/resume/ec5eb6e9ff023f2e180039ed1f674a724f6254) | [github.com](https://github.com/alex-lit/alex-lit/tree/main/public/sertificates/it) |
 
 ---
 
