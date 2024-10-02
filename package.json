@@ -1,5 +1,10 @@
 {
   "type": "module",
+  "scripts": {
+    "i": "./scripts/i.sh",
+    "ou": "./scripts/ou.sh",
+    "up": "./scripts/up.sh"
+  },
   "devDependencies": {
     "@alexlit/config-markdownlint": "^2.8.0",
     "@alexlit/config-prettier": "^18.5.5"
