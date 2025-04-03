@@ -6,8 +6,6 @@
 
 ---
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=alex-lit&theme=transparent&card_width=846&locale=ru&hide_border=true)](https://github.com/alex-lit?tab=projects&type=classic)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alex-lit&layout=compact&theme=transparent&card_width=846&locale=ru&hide_border=true&)](https://github.com/alex-lit?tab=projects&type=classic)
 
 ## Open Source проекты
