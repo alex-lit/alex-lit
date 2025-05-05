@@ -6,7 +6,7 @@
     "up": "./scripts/up.sh"
   },
   "devDependencies": {
-    "@alexlit/config-markdownlint": "^2.15.1",
-    "@alexlit/config-prettier": "^20.6.0"
+    "@alexlit/config-markdownlint": "^2.16.0",
+    "@alexlit/config-prettier": "^21.0.0"
   }
 }
