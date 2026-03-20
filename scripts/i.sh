@@ -2,13 +2,13 @@
 
 source "$(dirname $0)"/../bash.config.sh
 
-# Устанавливает зависимости
-install() {
-  npx pnpm install
-}
-
 echo -e "${YELLOW}Устанавливаю зависимости...${WHITE}"
 
-install
+find . -name "node_modules" -type d -prune -exec rm -rf '{}' +
+rm -rf package-lock.json
+npm cache clean --force
+npm install \
+  --legacy-peer-deps \
+  --loglevel verbose
 
 SAY_GOODBYE

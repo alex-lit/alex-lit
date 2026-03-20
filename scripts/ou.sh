@@ -3,7 +3,7 @@
 source "$(dirname $0)"/../bash.config.sh
 
 check() {
-  npx pnpm outdated \
+  npx npm outdated \
     --recursive
 }
 
