@@ -7,6 +7,6 @@
   },
   "devDependencies": {
     "@alexlit/config-markdownlint": "^2.23.0",
-    "@alexlit/config-prettier": "^22.1.1"
+    "@alexlit/config-prettier": "^22.4.0"
   }
 }
