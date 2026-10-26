@@ -1,3 +1,11 @@
-import { createConfig } from '@alexlit/config-prettier';
+import { defineConfig, plugins } from '@alexlit/config-prettier';
 
-export default createConfig();
+export default defineConfig([
+  plugins.jsdoc(),
+  plugins.mdc(),
+  plugins.packageJson(),
+  plugins.sh(),
+  plugins.sortJson(),
+  plugins.sql(),
+  plugins.xml(),
+]);
